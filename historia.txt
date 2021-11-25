@@ -1,0 +1,3 @@
+realizar un juego en el cual escribiras una historia definida, 
+pero tendra palabras vacias en la cual el usuario escribira las suyas
+y al final se juntara todo para crear una historia loca.
