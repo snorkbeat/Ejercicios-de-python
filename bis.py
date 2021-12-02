@@ -29,7 +29,7 @@ def run():
             x - x  x x - x   x - x  x  - x  x   -
         xxxx  - x   xx -  xxx  - x   x - x    x -
 
-        Bienvenido al calulador de años bisisestos escribe el numero de la opcion que deseas: 
+        Bienvenido al calculador de años bisisestos escribe el numero de la opcion que deseas: 
         1.- Saber si un año en especifico es bisiesto.
         2 - Saber los años bisiestos en un rango de x años a x años escribiendo primero el menor y despues el mayor.
         
